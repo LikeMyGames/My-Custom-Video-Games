@@ -1,3 +1,3 @@
-# My-Custom-Video-Games
-Where I put my video games.
-FYI there might be bugs.
+# My-Custom-Video-Game
+This is where I put my custom video games.
+	FYI there might be bugs.
